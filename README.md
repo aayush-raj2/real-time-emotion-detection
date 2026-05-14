@@ -11,7 +11,7 @@ A real-time facial emotion detection system using MobileNetV2 with smoothing, lo
 * Emotion smoothing (reduces flicker)
 * Emotion logging (CSV)
 * Confusion matrix & accuracy evaluation
-* Streamlit dashboard
+* Streamlit dashboardn
 
 ## ▶️ Run
 
